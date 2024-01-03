@@ -105,7 +105,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
+cd my-folder
 https://github.com/HFG43/emese_seguros.git
 ```
 
