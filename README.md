@@ -15,7 +15,8 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features) 
+    - [Key Features](#key-features)
+    - [ERD](#erd)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -71,6 +72,19 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
+<!-- ERD -->
+
+### ERD  <a name="erd"></a>
+
+On the following ERD you can see the structure of this project.
+
+<img src="/app/assets/images/ERD.png" alt="ERD" width=900px />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
