@@ -1,6 +1,6 @@
 class Certificate < ApplicationRecord
   has_one_attached :file
-  belongs_to :policy, class_name: 'Policy', foreign_key: 'policy_id'
+  belongs_to :policy
 
   validates :type, presence: true
   validates :year, presence: true
